@@ -30,6 +30,8 @@ const whitelist = [
     process.env.CLIENT_URL,
     "https://attendance-and-notes-system.netlify.app",
     "http://localhost:3000",
+    "https://budget-allocation.onrender.com",
+    "https://budget-allocation-ij50.onrender.com",
 ];
 
 app.use(
